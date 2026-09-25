@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -15,4 +16,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0904-fruit-into-baskets) |
+## Array
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
