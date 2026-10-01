@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0018-4sum) |
 | [0152-maximum-product-subarray](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
