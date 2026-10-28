@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0412-fizz-buzz) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
