@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0018-4sum) |
 | [0152-maximum-product-subarray](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1470-shuffle-the-array](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/1470-shuffle-the-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nishantraj06/Mastering-Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
